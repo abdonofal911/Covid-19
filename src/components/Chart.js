@@ -11,4 +11,4 @@ const Chart = () => {
   )
 }
 
-export default Deck
+export default Chart

@@ -1,7 +1,7 @@
 import React from 'react'
 import { Text ,View } from 'react-native'
 
-const Button = () => {
+const Buttons = () => {
   return (
     <View>
       <Text>
@@ -11,4 +11,4 @@ const Button = () => {
   )
 }
 
-export default Deck
+export default Buttons

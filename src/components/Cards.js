@@ -11,4 +11,4 @@ const Cards = () => {
   )
 }
 
-export default Deck
+export default Cards
