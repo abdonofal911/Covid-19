@@ -115,12 +115,14 @@ export default class Home extends Component {
             number="113 329"
           />
           <Cards
+            onPress={() => this.props.navigation.navigate("Detail")}
             icon="ios-git-network"
             title="RECOVERED"
             bg="#FFF"
             number="442 329"
           />
           <Cards
+            onPress={() => this.props.navigation.navigate("Detail")}
             icon="ios-heart-dislike"
             title="DEATH CASES"
             bg="#FFF"
