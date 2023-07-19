@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
   bottomCard: {
     backgroundColor: "#1c2732",
     height: 220,
-    marginTop: 20,
+    marginTop: 110,
     borderTopLeftRadius: 30,
     borderTopRightRadius: 30,
   },
